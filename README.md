@@ -42,10 +42,8 @@ Support Me!
  in this course, Download codes here https://github.com/Tief-Software-Truth/Animation-Loading
  
 Subscribe To software And hardware channels.
-↪︎  Software Channel: 
-https://bit.ly/3nMIYGK
-↪︎ Hardware Channel: 
-https://bit.ly/3Cx0BAj
+↪︎  Software Channel: https://bit.ly/3nMIYGK
+↪︎ Hardware Channel: https://bit.ly/3Cx0BAj
 
 # If you have any other creative Glassmorphism in CSS,
 examples: With effects & animations, please feel free to comment them below. 
