@@ -1,10 +1,9 @@
-In this tutorial, I'll show you how to create simple CSS animation effects In HTML and CSS. 
-- how you can make an Awesome Neumorphism Effect | Glassmorphism in HTML and CSS🔥
+# In this tutorial, I'll show you how to create simple CSS animation effect using HTML and CSS 🔥
 
 Subscribe Here: https://bit.ly/3nMIYGK
 
 Become a member of this channel,
-https://bit.ly/2U6VFRs
+https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
 
 
 🔥How To Create A Simple CSS animation effects In HTML and CSS. 
@@ -31,24 +30,28 @@ https://youtu.be/lnlb1BI7734
 
 Support Me!
 + Join channel for $1.99 USD 
-➡️https://bit.ly/2U6VFRs
+➡️https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
 
 + Donate  any dollar here
-➡️https://bit.ly/335p2rY
+➡️https://www.patreon.com/tiefsoftwarelab
 
 + buy me a coffee
-➡️https://bit.ly/3IuKN3O
+➡️https://www.buymeacoffee.com/tieflabs
 
-If you're interested to this course Download codes here https://github.com/Tief-Software-Truth/Animation---Loading
-Subscribe To software And hardware.
-↪︎  Programing Channel: 
+# If you're interested 
+ in this course, Download codes here https://github.com/Tief-Software-Truth/Animation-Loading
+ 
+Subscribe To software And hardware channels.
+↪︎  Software Channel: 
 https://bit.ly/3nMIYGK
-↪︎ Electronics Channel: 
+↪︎ Hardware Channel: 
 https://bit.ly/3Cx0BAj
 
-If you have any other creative CSS Glassmorphism examples with effects & animations, feel free to comment them below. and suggest what we can make next time.
+# If you have any other creative Glassmorphism in CSS,
+examples: With effects & animations, please feel free to comment them below. 
+and suggest what we can make next time.
 
-► Social Media
+# ► Social Media
  - Follow My Facebook: 
   https://www.facebook.com/tiefsoftwarelab
 -  Follow My Instagram: 
@@ -58,15 +61,19 @@ If you have any other creative CSS Glassmorphism examples with effects & animati
 - Follow My Pinterest: 
 https://www.pinterest.com/tiefsoftwarelab
 
-If you're searching for how to make an eCommerce website, how to make a professional webShop from scratch, how to create an Online Store website step by step using html and css, best website making course, Glasstutorial for beginners - then this tutorial is for you.
+# If you're searching for how to make an eCommerce website, 
+how to make a professional webShop from scratch, 
+how to create an Online Store website step by step using html and css, 
+best website making course, Glasstutorial for beginners then
 
+# then this tutorial is for you really.
 
 ► Support My Other Channels!
-+1 Music Channel: 
-https://bit.ly/3iiWJvc
++1 personal Channel: 
+https://www.youtube.com/channel/UC7yI8LlfVB0JWYCUy6_ifjQ?sub_confirmation=1
 
 +1 Gaming  Channel: 
-https://bit.ly/3BrJyyi
+https://studio.youtube.com/channel/UCxFe7g1PHubcil8nMr1jgpQ?sub_confirmation=1
 
-Thank you all for your support!
- ▱tieflab▰
+Thank you for your support!
+ # ▱tieflab▰
